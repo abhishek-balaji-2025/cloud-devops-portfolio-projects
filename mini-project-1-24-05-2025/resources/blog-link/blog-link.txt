@@ -1,0 +1,2 @@
+# This file contains the link to the blog post documenting this Cloud and DevOps mini project. It serves as a reference for detailed steps, explanations, and outcomes.
+# Blog link here: 
